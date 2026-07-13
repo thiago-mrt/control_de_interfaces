@@ -22,58 +22,44 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Martinez Thiago
 
 ### Objetivos de la jornada:
-- Hacer un diseño inicial del robot
+- Hacer un boceto inicial del robot
 - comenzar con el codigo 
-- Que cada uno
-Actividades realizadas:
-
-Problemas encontrados:
-
-Soluciones implementadas o propuestas:
-
-Pruebas realizadas:
-
-Resultados obtenidos:
-
-Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
-Tareas pendientes:
-
+- Que cada uno pueda dar su propio informe
+- enumerar materiales faltantes para hacer el robot 
+- hacer un diagrama esquematico
+- debatir sobre temas los materiales del robot
 ### Actividades realizadas:
+- diseño inicial del robot
+- entender los codigos en C
 - 
-- 
-- 
-
 ### Problemas encontrados:
--
--
--
-
+- el diseño 
+- que material a utilizar para la estructura
+- 
 ### Soluciones implementadas o propuestas:
 -
 -
 -
-
 ### Pruebas realizadas:
 -
 -
 -
-
+-
 ### Resultados obtenidos:
 -
 -
 -
-
-### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
-
+-
 ### Tareas pendientes:
 -
 -
 -
-
+-
 ### APORTES INDIVIDUALES
 Integrante: Martinez Thiago
 
-Tarea realizada:
+Tarea realizada:realizo la bitacora, agrego a todos en el kithub
+
 
 Integrante: Macrino Sebas
 
