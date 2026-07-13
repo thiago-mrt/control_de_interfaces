@@ -33,46 +33,45 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - entender los codigos en C
 - 
 ### Problemas encontrados:
-- el diseño 
+- el diseño
 - que material a utilizar para la estructura
-- 
+- Las medidas para el diseño del robot
 ### Soluciones implementadas o propuestas:
--
--
+- Concluyo en  hacer un robot tipo rampa
+- Concluyo en usar plastico
 -
 ### Pruebas realizadas:
--
--
--
--
+- no se realizaron pruebas
 ### Resultados obtenidos:
--
--
--
--
+- no hubo resultados
 ### Tareas pendientes:
--
--
--
--
+- 
+- 
+- 
+- 
 ### APORTES INDIVIDUALES
 Integrante: Martinez Thiago
 
-Tarea realizada:realizo la bitacora, agrego a todos en el kithub
-
+- Tarea realizada:
+- Realizo la bitacora
+- Agrego a todos en el kithub
+- Establecio las medidas del robot
 
 Integrante: Macrino Sebas
 
 Tarea realizada:
+- Comenzar con el codigo
+- Ayudar sobre ideas de la estructura
 
 Integrante: Mathias Krahn
 
 Tarea realizada:
+- Organizar y ubicar los materiales
+- Hizo un boceto sobre el robot
 
-Integrante: 
+Integrante: Benjamin Gonzalez Lainez
 
-Tarea realizada:
-
-Integrante: ____________________________
+-Tarea realizada:
+-ayudo sobre
 
 Tarea realizada:
