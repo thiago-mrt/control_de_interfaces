@@ -13,6 +13,10 @@ Reemplazar `<URL_DEL_FORK>` por la URL del fork del repositorio del equipo.
 ```bash
 git clone <URL_DEL_FORK>
 ```
+Ingresar al directorio que acabamos de clonar `control_de_interfaces`
+```bash
+cd control_de_interfaces
+```
 Ingresar al directorio del proyecto.
 
 ```bash
@@ -29,7 +33,7 @@ git branch -a
 
 Por ejemplo, para trabajar sobre la rama `firmware`:
 ```bash
-git checkout firmware
+git switch firmware
 ```
 Para verificar en qué rama estoy:
 
