@@ -4,7 +4,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ## Equipo: _______________________________
 ## Nombre del Robot: ______________________
-## Capitán: ______________________a_________
+## Capitán: _______________________________
 ## Subcapitán: ____________________________
 ## Integrantes:
 -
