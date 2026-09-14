@@ -1,18 +1,46 @@
-Carpeta designada para la documentación de robot -chupicup-
-Martin ,Sebas ,benjamin intentaron hacer un codigo por su cuenta a base de videos
-https://www.youtube.com/watch?v=1-qjMS6C960
-miramos un video sobre la elaboracion de un diagrama
-https://www.youtube.com/watch?v=1-qjMS6C960
-revisamos el kit y todas y cada una de sus piezas contandolas 1 por 1 
-armamos el robot para buscar o ver fallas y encontramos juegos en los motores con las piezas 
-afirmamos la idea sobre el robot 
-tuvimos fallar en el intento del codigo respecto a la computadora-
-martin sebas y benjamin investigaron sobre el puente H y descubrieron que el puente H es un circuito electrico
-que permite a un motor de corriente continua girar en ambos sentidos y controlas su velocidad
-El dia de hoy nos propusimos mejorar las bitacoras , la documentacion , el modelo del robot, el codigo/filmware
-logramos:
-Trazar el diagrama mejoramos las bitacoras en sus respectivas ramas igual que a la documentacion, tenemos el modelo casi listo para mandar a imprimir
-la base del codigo lo hicieron con chatgpt, el modelo 3d lo hicieron en tinkercad
+# Documentación del Proyecto: ChupiCup
+
+Repositorio designado para el registro, la documentación y el desarrollo del robot **ChupiCup**
+
+---
+
+##  Bitácora de Progreso y Desarrollo
+
+###  Investigamos
+* **Programación Inicial:** Martín, Sebas y Benjamín intentaron desarrollar un código de manera autónoma guiándose de recursos en video.
+  * 🔗 [Referencia de código en YouTube](https://www.youtube.com/watch?v=1-qjMS6C960)
+* **Planificación:** Visualizamos material audiovisual para la elaboración correcta de diagramas.
+  * 🔗 [Guía de diagramas en YouTube](https://www.youtube.com/watch?v=1-qjMS6C960)
+* **Inventario:** Revisamos el kit completo, contando y verificando cada una de las piezas una por una.
+
+---
+
+###  Ensamblaje y las fallas que detectamos
+* **Prueba de Armado:** Construimos el prototipo inicial para detectar posibles fallos estructurales.
+* **Problemas Detectados:** Encontramos holguras (*juegos*) entre los motores y las piezas de acople.
+* **Validación:** Afirmamos y consolidamos la idea conceptual del robot.
+* **Obstáculos:** Surgieron inconvenientes técnicos relacionados con la computadora durante las pruebas de código.
+
+---
+
+###  Investigación Teórica (Puente H)
+Martín, Sebas y Benjamín investigaron a fondo sobre el **Puente H**, descubriendo que:
+> Es un circuito eléctrico que permite a un motor de corriente continua (DC) girar en ambos sentidos y controlar su velocidad de forma precisa.
+
+---
+
+###   Mejoramos y Actualizamos 
+*Nos propusimos optimizar las bitácoras, la documentación, el diseño del modelo y el firmware del robot.*
+
+####  logramos:
+* Trazado exitoso del diagrama.
+* Mejora sustancial en la estructura de las bitácoras en sus respectivas ramas y en la documentación general.
+* Modelo 3D prácticamente listo para enviar a impresión (diseñado en **Tinkercad**).
+* Desarrollo de la base del código asistido mediante **ChatGPT**.
+
+---
+
+> *Proyecto en desarrollo constante.* ⚙️
 [Ver proyecto en Tinkercad](https://www.tinkercad.com/things/jq6sLEZiAXH-incredible-turing-blad)
 ### Explicación del diseño del robot
 
