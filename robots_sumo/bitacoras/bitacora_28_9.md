@@ -40,7 +40,7 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 * confirmar los materiales para la carcasa del robot
 * que funcione el codigo
 * empezar a armar el robot
-* hacer el codigo para controlar los motores con bluethoot
+* hacer el codigo para el bluethoot
 * Conectar los motores
 * averiguar que baterias utiliza el portapilas
 * averiguar que voltage utilizan las baterias
@@ -57,25 +57,26 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 
 ### Problemas encontrados
 
+* el codigo no se pudo iniciar
+* no estaba bien hechas las conexiones
 * 
 ### Soluciones implementadas o propuestas
 
-* 
+* reacomodar las conexiones en sus lugares correspondientes
+
 ### Pruebas realizadas
 
-* 
+* (ninguna)
 ### Resultados obtenidos
-
-* 
+* (ninguna)
 ### Fotografías, diagramas o evidencias
 
 *(Adjuntar imágenes, capturas de pantalla o esquemas)*
 
 
-![imagenes](https://raw.githubusercontent.com/thiago-mrt/bitacoras/848bdce89889fa7bb75c3a6a9081f87c1eb7eb51/robots_sumo/imagenes/diagrama.jpeg)
 
 ### Tareas pendientes
-
+* hacer el codigo para el bluethoot
 * 
 
 ---
@@ -84,20 +85,30 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 
 ### Martínez Thiago
 
-*
+* hizo la bitacora
+* acomodo los titulos y fechas de las bitacoras
+* dio los objetivos a realizar en esta jornada
+* ayudo a averiguar el voltage que usa el portapilas
+
 ### Macrino Sebastián
 
-* 
-* 
-
+* termino el diagrama esquematico del las raspberry
+* hizo las conexiones de la raspberry a la protoboard
+* conecto los motores
+  
 ### Macrino Martín
 
-* 
+* hizo el codigo
 
 ### Krahn Mathias
 
-* 
+* averiguo las baterias que utilizaba el portapilas
+* averiguo a que voltage se manejaban
+* hizo el informe de que material utilizar y por que utlizarlo
 
 ### González Laínez
 
-* 
+* averiguo las baterias que utilizaba el portapilas
+* averiguo a que voltage se manejaban
+* hizo el informe de que material utilizar y por que utlizarlo
+
