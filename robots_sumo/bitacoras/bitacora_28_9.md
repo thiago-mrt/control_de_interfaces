@@ -34,11 +34,26 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 
 ### Objetivos de la jornada
 
-* 
+* Conectar los motores
+* que funcionen los motores con el codigo
+* terminar el diagrama esquematico
+* confirmar los materiales para la carcasa del robot
+* que funcione el codigo
+* empezar a armar el robot
+* hacer el codigo para controlar los motores con bluethoot
+* Conectar los motores
+* averiguar que baterias utiliza el portapilas
+* averiguar que voltage utilizan las baterias
+  
 
 ### Actividades realizadas
 
-* 
+* confirmar los materiales para la carcasa del robot
+* terminar el diagrama esquematico
+* Conectar los motores
+* averiguar que baterias utiliza el portapilas
+* averiguar que voltage utilizan las baterias
+  
 
 ### Problemas encontrados
 
