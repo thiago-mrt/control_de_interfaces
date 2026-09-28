@@ -72,7 +72,7 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 *(Adjuntar imágenes, capturas de pantalla o esquemas)*
 
 
-![image_alt][https://github.com/thiago-mrt/control_de_interfaces/blob/848bdce89889fa7bb75c3a6a9081f87c1eb7eb51/robots_sumo/imagenes/diagrama.jpeg]
+![image_alt][https://github.com/thiago-mrt/bitacoras/control_de_interfaces/blob/848bdce89889fa7bb75c3a6a9081f87c1eb7eb51/robots_sumo/imagenes/diagrama.jpeg]
 
 
 ### Tareas pendientes
