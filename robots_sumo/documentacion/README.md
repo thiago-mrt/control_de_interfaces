@@ -51,3 +51,13 @@ Cuenta con **dos ruedas a cada lado**, lo que le permite tener buena estabilidad
 Además, la **batería, la protoboard y los demás componentes electrónicos están colocados dentro de la rampa**, para protegerlos de golpes durante el enfrentamiento y mantener el centro de gravedad bajo. De esta manera, el robot tiene mayor estabilidad y es más difícil que el rival pueda volcarlo.
 
 En conclusión, el diseño busca combinar **velocidad, estabilidad y capacidad de empuje**, con el objetivo de alcanzar rápidamente a los robots rivales, introducir la rampa debajo de ellos y sacarlos del área de combate.
+
+### Carcasa del robot
+
+La carcasa de nuestro robot estará fabricada principalmente de **plástico rígido**, ya que es un material liviano, resistente y fácil de trabajar. Elegimos este material porque permite reducir el peso del robot, haciendo que los motores puedan moverlo con mayor facilidad y alcanzar una buena velocidad. Además, el plástico es suficientemente resistente para soportar los golpes que puede recibir durante el enfrentamiento.
+
+La carcasa tendrá una **base, laterales, parte superior y una rampa inclinada en la parte delantera**. En su interior estarán protegidos la batería, la protoboard, los motores y los demás componentes electrónicos. De esta manera, los componentes estarán protegidos de posibles golpes y movimientos durante el funcionamiento.
+
+La parte más importante será la **rampa delantera**, que estará diseñada para introducirse por debajo de los robots rivales. Al avanzar, el robot podrá aprovechar su velocidad y la fuerza de sus motores para empujar al rival y sacarlo del área de combate. Las cuatro ruedas, dos de cada lado, proporcionarán estabilidad y tracción para poder realizar estos movimientos.
+
+En conclusión, la carcasa de plástico busca combinar **bajo peso, resistencia y protección de los componentes**, mientras que su forma de rampa permite que el robot cumpla su función principal: avanzar rápidamente, colocarse debajo del robot rival y empujarlo fuera del área de combate.
