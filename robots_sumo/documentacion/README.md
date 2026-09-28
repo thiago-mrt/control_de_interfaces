@@ -61,3 +61,11 @@ La carcasa tendrá una **base, laterales, parte superior y una rampa inclinada e
 La parte más importante será la **rampa delantera**, que estará diseñada para introducirse por debajo de los robots rivales. Al avanzar, el robot podrá aprovechar su velocidad y la fuerza de sus motores para empujar al rival y sacarlo del área de combate. Las cuatro ruedas, dos de cada lado, proporcionarán estabilidad y tracción para poder realizar estos movimientos.
 
 En conclusión, la carcasa de plástico busca combinar **bajo peso, resistencia y protección de los componentes**, mientras que su forma de rampa permite que el robot cumpla su función principal: avanzar rápidamente, colocarse debajo del robot rival y empujarlo fuera del área de combate.
+
+Portapilas
+
+El portapilas utiliza 4 pilas tipo AAA (UM-4). Cada pila proporciona aproximadamente 1,5 V, por lo que, al estar conectadas en serie, el voltaje total es de 6 V.
+
+La conexión en serie hace que los voltajes de las cuatro pilas se sumen:
+
+1,5 V + 1,5 V + 1,5 V + 1,5 V = 6 V.
