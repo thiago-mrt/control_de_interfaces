@@ -1,24 +1,18 @@
 #include "pico/stdlib.h"
 #include "hardware/pwm.h"
-#include "stdio.h"
+#include <stdio.h>
 
-// ==========================
-// MOTOR A
-// ==========================
+// motor a
 #define IN1 2
 #define IN2 3
 #define ENA 6
 
-// ==========================
-// MOTOR B
-// ==========================
+// motor b
 #define IN3 4
 #define IN4 5
 #define ENB 7
 
-// ==========================
-// CONFIGURAR PWM
-// ==========================
+// configurar pwm
 void configurarPWM(uint pin) {
 
     gpio_set_function(pin, GPIO_FUNC_PWM);
@@ -27,45 +21,47 @@ void configurarPWM(uint pin) {
 
     pwm_config config = pwm_get_default_config();
 
-    // PWM
     pwm_config_set_clkdiv(&config, 4.0f);
 
     pwm_init(slice, &config, true);
 
-    // 100% de PWM
+    // 100% de pwm
     pwm_set_gpio_level(pin, 65535);
 }
 
-// ==========================
-// ADELANTE
-// ==========================
+// adelante
 void adelante() {
+
+    pwm_set_gpio_level(ENA, 65535);
+    pwm_set_gpio_level(ENB, 65535);
 
     gpio_put(IN1, 1);
     gpio_put(IN2, 0);
 
     gpio_put(IN3, 1);
     gpio_put(IN4, 0);
+
+    printf("motor: adelante\n");
 }
 
-// ==========================
-// ATRÁS
-// ==========================
+// atras
 void atras() {
+
+    pwm_set_gpio_level(ENA, 65535);
+    pwm_set_gpio_level(ENB, 65535);
 
     gpio_put(IN1, 0);
     gpio_put(IN2, 1);
 
     gpio_put(IN3, 0);
     gpio_put(IN4, 1);
+
+    printf("motor: atras\n");
 }
 
-// ==========================
-// PARAR
-// ==========================
+// parar
 void parar() {
 
-    // PWM = 0
     pwm_set_gpio_level(ENA, 0);
     pwm_set_gpio_level(ENB, 0);
 
@@ -74,11 +70,11 @@ void parar() {
 
     gpio_put(IN3, 0);
     gpio_put(IN4, 0);
+
+    printf("motor: parado\n");
 }
 
-// ==========================
-// INICIALIZAR MOTORES
-// ==========================
+// inicializar motores
 void inicializarMotores() {
 
     gpio_init(IN1);
@@ -93,33 +89,35 @@ void inicializarMotores() {
 
     configurarPWM(ENA);
     configurarPWM(ENB);
+
+    parar();
 }
 
-// ==========================
-// MAIN
-// ==========================
+// main
 int main() {
 
     stdio_init_all();
 
     inicializarMotores();
 
+    printf("\nautito iniciado\n");
+
     while (true) {
 
+        printf("motor: adelante\n");
         adelante();
-
         sleep_ms(3000);
 
+        printf("motor: parado\n");
         parar();
-
         sleep_ms(1000);
 
+        printf("motor: atras\n");
         atras();
-
         sleep_ms(3000);
 
+        printf("motor: parado\n");
         parar();
-
         sleep_ms(1000);
     }
 }
