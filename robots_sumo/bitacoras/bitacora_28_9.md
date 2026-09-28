@@ -90,6 +90,7 @@
 * Acomodó los títulos y fechas de las bitácoras.
 * Dio los objetivos a realizar en esta jornada.
 * Ayudó a averiguar el voltaje que usa el portapilas.
+* Aprendio a poner imagenes a las bitacoras
 
 ### Macrino Sebastián
 
