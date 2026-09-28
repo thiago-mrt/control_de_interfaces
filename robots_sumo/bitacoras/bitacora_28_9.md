@@ -73,6 +73,9 @@
 
 *(Adjuntar imágenes, capturas de pantalla o esquemas)*
 
+
+![diagrama.jpeg](https://raw.githubusercontent.com/thiago-mrt/control_de_interfaces/38672d1b5874d8c74ba47d79894b6fa7ba709e83/robots_sumo/imagenes/diagrama.jpeg)
+
 ### Tareas pendientes
 
 * Hacer el código para el Bluetooth.
