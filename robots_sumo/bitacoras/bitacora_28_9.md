@@ -1,4 +1,4 @@
-NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositorio correspondiente.
+> **NOTA:** A medida que se realicen las bitácoras, deberán ser subidas al repositorio correspondiente.
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
@@ -34,50 +34,48 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 
 ### Objetivos de la jornada
 
-* Conectar los motores
-* que funcionen los motores con el codigo
-* terminar el diagrama esquematico
-* confirmar los materiales para la carcasa del robot
-* que funcione el codigo
-* empezar a armar el robot
-* hacer el codigo para el bluethoot
-* Conectar los motores
-* averiguar que baterias utiliza el portapilas
-* averiguar que voltage utilizan las baterias
-  
+* Conectar los motores.
+* Hacer que funcionen los motores con el código.
+* Terminar el diagrama esquemático.
+* Confirmar los materiales para la carcasa del robot.
+* Hacer que funcione el código.
+* Empezar a armar el robot.
+* Hacer el código para el Bluetooth.
+* Averiguar qué baterías utiliza el portapilas.
+* Averiguar qué voltaje utilizan las baterías.
 
 ### Actividades realizadas
 
-* confirmar los materiales para la carcasa del robot
-* terminar el diagrama esquematico
-* Conectar los motores
-* averiguar que baterias utiliza el portapilas
-* averiguar que voltage utilizan las baterias
-  
+* Confirmamos los materiales para la carcasa del robot.
+* Terminamos el diagrama esquemático.
+* Conectamos los motores.
+* Averiguamos qué baterías utiliza el portapilas.
+* Averiguamos qué voltaje utilizan las baterías.
 
 ### Problemas encontrados
 
-* el codigo no se pudo iniciar
-* no estaba bien hechas las conexiones
-* 
+* El código no se pudo iniciar.
+* No estaban bien hechas las conexiones.
+
 ### Soluciones implementadas o propuestas
 
-* reacomodar las conexiones en sus lugares correspondientes
+* Reacomodamos las conexiones en sus lugares correspondientes.
 
 ### Pruebas realizadas
 
-* (ninguna)
+* Ninguna.
+
 ### Resultados obtenidos
-* (ninguna)
+
+* Ninguno.
+
 ### Fotografías, diagramas o evidencias
 
 *(Adjuntar imágenes, capturas de pantalla o esquemas)*
 
-
-
 ### Tareas pendientes
-* hacer el codigo para el bluethoot
-* 
+
+* Hacer el código para el Bluetooth.
 
 ---
 
@@ -85,30 +83,29 @@ NOTA: A medida que se realicen las bitácoras, deberán ser subidas al repositor
 
 ### Martínez Thiago
 
-* hizo la bitacora
-* acomodo los titulos y fechas de las bitacoras
-* dio los objetivos a realizar en esta jornada
-* ayudo a averiguar el voltage que usa el portapilas
+* Hizo la bitácora.
+* Acomodó los títulos y fechas de las bitácoras.
+* Dio los objetivos a realizar en esta jornada.
+* Ayudó a averiguar el voltaje que usa el portapilas.
 
 ### Macrino Sebastián
 
-* termino el diagrama esquematico del las raspberry
-* hizo las conexiones de la raspberry a la protoboard
-* conecto los motores
-  
+* Terminó el diagrama esquemático de las Raspberry.
+* Hizo las conexiones de la Raspberry a la protoboard.
+* Conectó los motores.
+
 ### Macrino Martín
 
-* hizo el codigo
+* Hizo el código.
 
 ### Krahn Mathias
 
-* averiguo las baterias que utilizaba el portapilas
-* averiguo a que voltage se manejaban
-* hizo el informe de que material utilizar y por que utlizarlo
+* Averiguó las baterías que utilizaba el portapilas.
+* Averiguó a qué voltaje se manejaban.
+* Hizo el informe de qué material utilizar y por qué utilizarlo.
 
 ### González Laínez
 
-* averiguo las baterias que utilizaba el portapilas
-* averiguo a que voltage se manejaban
-* hizo el informe de que material utilizar y por que utlizarlo
-
+* Averiguó las baterías que utilizaba el portapilas.
+* Averiguó a qué voltaje se manejaban.
+* Hizo el informe de qué material utilizar y por qué utilizarlo.
