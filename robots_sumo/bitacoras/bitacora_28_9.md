@@ -60,14 +60,15 @@
 ### Soluciones implementadas o propuestas
 
 * Reacomodamos las conexiones en sus lugares correspondientes.
+* a base de prueba y error el codigo abrio y le agregramos prints para guiarnos a traves de la consola
 
 ### Pruebas realizadas
 
-* Ninguna.
+* Una sola
 
 ### Resultados obtenidos
 
-* Ninguno.
+* El codigo funciona pero los motores aún no se mueven
 
 ### Fotografías, diagramas o evidencias
 
